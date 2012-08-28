@@ -12,3 +12,4 @@ Interesting sources and examples
 http://pwman.sourceforge.net/
 http://en.wikipedia.org/wiki/Dialog_(software)
 http://frank.harvard.edu/~coldwell/ncurses/ncurses-intro.html
+http://freecode.com/projects/ssysm
