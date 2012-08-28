@@ -1,0 +1,1 @@
+The file usermaster should be placed in /usr/sbin. 
